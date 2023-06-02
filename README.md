@@ -9,7 +9,7 @@ Mina Twice cantik bet dah
 ## Installation Link Jika Sudah Punya Domain dan sudah Pointing ns domain<br>
 
   ```html
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Agunxzzz/Mina-Xray-SSH/main/setup1.sh && chmod +x setup1.sh && ./setup1.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Marviansah/Mina-Xray-SSH/main/setup1.sh && chmod +x setup1.sh && ./setup1.sh 
   ```
 ## Installation Link Jika Belum Punya Domain<br>
 
